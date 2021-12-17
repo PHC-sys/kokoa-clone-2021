@@ -9,3 +9,11 @@ longer to import the font.
 
 3. fontawesome size
 add 'fa-lg' or 'fa-nx' to the class.
+
+4. reset css
+reset the default
+copy&paste reset code
+import to the style css
+
+5. check the size(px/%)
+그림판에서 체크 or use dimension tool in chrome

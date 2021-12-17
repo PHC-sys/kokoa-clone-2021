@@ -26,3 +26,9 @@ import to the style css
 
 7. text opacity
 use 'rgba'
+
+8. 'not' property
+
+9. class vs id
+class is the best.
+i don't want to write down #,[], typetypetype...

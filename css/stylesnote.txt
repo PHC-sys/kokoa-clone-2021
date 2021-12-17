@@ -1,0 +1,11 @@
+1. font-family
+--apple ~~--
+-check 'Google font'
+selcet the style,
+if you select more than one style, it could take
+longer to import the font.
+
+2. css hack
+
+3. fontawesome size
+add 'fa-lg' or 'fa-nx' to the class.

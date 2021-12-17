@@ -17,3 +17,12 @@ import to the style css
 
 5. check the size(px/%)
 그림판에서 체크 or use dimension tool in chrome
+
+6. ::placeholder vs input[placeholder=""]
+::placeholder
+대상: input 의 "placeholder text"
+[placeholder~...]
+대상: placeholder로 특정 value를 가지는 "input"
+
+7. text opacity
+use 'rgba'

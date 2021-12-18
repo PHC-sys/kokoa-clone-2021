@@ -1,0 +1,8 @@
+1. shortcut for nav
+"nav>ul>li*4>a" enter.
+
+2.recap(icon)
+fontawesome size
+add the class name fa-nx or fa-lg ...
+* ... => 'ellipsis'
+

@@ -1,0 +1,15 @@
+1. link color
+default : blue
+-> color: inherit;
+
+2. common thing
+=>reset.css
+
+3. box-sizing: border-box;
+css extends the box size when you position it.
+because of the padding & the original box size that user wants.
+
+so, we add "box-sizing: border-box;"
+
+4. circle
+border-radius: 50% of width.

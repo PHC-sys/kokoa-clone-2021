@@ -32,3 +32,12 @@ use 'rgba'
 9. class vs id
 class is the best.
 i don't want to write down #,[], typetypetype...
+
+10. the order of import in styles.css
+1. font
+    reset
+    variables
+
+2. components
+
+3. screens

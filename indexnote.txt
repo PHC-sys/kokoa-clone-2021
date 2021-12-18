@@ -1,3 +1,7 @@
+*short cut for html
+"!" enter.
+
+
 1. BEM CSS (Block element modifier)
 :kind of rule for reading css easier.
 

@@ -1,0 +1,5 @@
+1. modifier
+add modified class name and then change.
+
+2. make the common characteristics.
+ex. var() , modifier

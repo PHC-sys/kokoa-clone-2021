@@ -6,3 +6,7 @@ fontawesome size
 add the class name fa-nx or fa-lg ...
 * ... => 'ellipsis'
 
+3. shortcut
+span*3
+.user-component__column*2
+

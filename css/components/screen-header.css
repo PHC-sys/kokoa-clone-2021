@@ -6,6 +6,10 @@
   padding-bottom: 20px;
 }
 
+.screen-header-chats {
+  margin-bottom: 5px;
+}
+
 .screen-header__title {
   font-size: xx-large;
   font-weight: 600;

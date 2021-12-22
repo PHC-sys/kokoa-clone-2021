@@ -1,0 +1,14 @@
+1. 
+.screen-header-chats {
+  margin-bottom: 5px;
+}
+
+instead of this way,
+a. we can just add the css code to .screen-header
+
+b. and then give a negative margin to #friends-display-link
+    (margin-top: -15px;)
+
+2. user-component__column:last child
+friends screen
+-> add <div>

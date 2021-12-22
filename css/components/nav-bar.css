@@ -22,11 +22,8 @@
   left: 15px;
   bottom: 15px;
 }
-.nav__small__notification {
-  background-color: tomato;
-  width: 5px;
-  height: 5px;
-  border-radius: 2.5px;
+
+.nav__link .small__notification {
   position: absolute;
   left: 34px;
   bottom: 27px;

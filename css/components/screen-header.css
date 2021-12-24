@@ -3,7 +3,7 @@
   padding: 45px var(--horizontal-space);
   justify-content: space-between;
   align-items: center;
-  padding-bottom: 20px;
+  padding-bottom: 18px;
 }
 
 .screen-header-chats {
@@ -11,7 +11,7 @@
 }
 
 .screen-header__title {
-  font-size: xx-large;
+  font-size: 32px;
   font-weight: 600;
 }
 
@@ -21,7 +21,7 @@
 }
 */
 
-.screen-header__icon span {
+.screen-header__icon > span {
   margin-left: 25px;
 }
 
@@ -31,6 +31,6 @@
 
 .screen-header__icon__cog .small__notification {
   position: absolute;
-  left: 0px;
+  left: 20px;
   bottom: 20px;
 }

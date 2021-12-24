@@ -3,17 +3,22 @@
 @import "variables.css";
 
 /*Components*/
+@import "components/fixed-top.css";
 @import "components/status-bar.css";
 @import "components/nav-bar.css";
 @import "components/screen-header.css";
 @import "components/user-component.css";
 @import "components/badge.css";
 @import "components/small__notification.css";
+@import "components/exclamation-mark.css";
+@import "components/icon-row.css";
 
 /*Screens*/
 @import "screens/login.css";
 @import "screens/friends.css";
 @import "screens/find.css";
+@import "screens/more.css";
+@import "screens/settings.css";
 
 body {
   font-family: "Open Sans", sans-serif;
@@ -23,4 +28,8 @@ body {
 
 .main-screen {
   padding: 0px var(--horizontal-space);
+  margin-top: 100px;
+}
+.main-screen__settings {
+  margin-top: 26px;
 }

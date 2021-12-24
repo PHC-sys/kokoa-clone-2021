@@ -1,6 +1,6 @@
 .user-component {
   justify-content: space-between;
-  margin-bottom: 30px;
+  margin-bottom: 22px;
 }
 
 .user-component,
@@ -29,6 +29,8 @@
   font-size: 15px;
   font-weight: 600;
   color: rgba(0, 0, 0, 0.4);
+  display: flex;
+  justify-content: space-between;
 }
 
 .user-component__avatar--xl {
@@ -57,4 +59,8 @@
 .user-component__column__time {
   margin-bottom: 10px;
   display: block;
+}
+
+.user-component__more {
+  margin-bottom: 15px;
 }

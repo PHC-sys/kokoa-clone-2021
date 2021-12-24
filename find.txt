@@ -1,0 +1,3 @@
+1. alphabet: lower case -> upper case
+* upper case : designing
+text-transform:uppercase;

@@ -4,6 +4,7 @@
   align-items: center;
   background-color: #fafafa;
   padding: 13px 0px;
+  margin-top: 95px;
   margin-bottom: 8px;
 }
 
@@ -40,7 +41,6 @@
 }
 
 .friends-screen__channel {
-  margin-top: 16px;
   border-top: var(--main-border);
   padding-top: 15px;
 }

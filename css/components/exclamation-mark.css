@@ -1,0 +1,15 @@
+.exclamation-mark {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  border: 2px solid tomato;
+  color: tomato;
+  font-size: 9px;
+}
+
+.user-component__subtitle .exclamation-mark {
+  margin-left: 7px;
+}

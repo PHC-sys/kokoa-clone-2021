@@ -1,0 +1,10 @@
+#chat-screen {
+  background-color: #abc1d1;
+}
+
+#chat-screen .fixed-top {
+  background-color: #abc1d1;
+}
+#chat-screen .fixed-top .status-bar {
+  background-color: #abc1d1;
+}

@@ -3,15 +3,16 @@
 @import "variables.css";
 
 /*Components*/
-@import "components/fixed-top.css";
-@import "components/status-bar.css";
-@import "components/nav-bar.css";
-@import "components/screen-header.css";
-@import "components/user-component.css";
-@import "components/badge.css";
-@import "components/small__notification.css";
-@import "components/exclamation-mark.css";
-@import "components/icon-row.css";
+@import "components/css/fixed-top.css";
+@import "components/css/status-bar.css";
+@import "components/css/nav-bar.css";
+@import "components/css/screen-header.css";
+@import "components/css/user-component.css";
+@import "components/css/badge.css";
+@import "components/css/small__notification.css";
+@import "components/css/exclamation-mark.css";
+@import "components/css/icon-row.css";
+@import "components/css/alt-screen-header.css";
 
 /*Screens*/
 @import "screens/login.css";
@@ -19,6 +20,7 @@
 @import "screens/find.css";
 @import "screens/more.css";
 @import "screens/settings.css";
+@import "screens/chat.css";
 
 body {
   font-family: "Open Sans", sans-serif;
@@ -31,5 +33,5 @@ body {
   margin-top: 100px;
 }
 .main-screen__settings {
-  margin-top: 26px;
+  margin-top: 81px;
 }

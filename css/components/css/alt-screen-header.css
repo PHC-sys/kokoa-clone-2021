@@ -1,0 +1,28 @@
+.alt-screen-header {
+  margin-top: 26px;
+  padding: 0px var(--horizontal-space);
+  padding-top: 15px;
+  margin-bottom: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.alt-screen-header__title {
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.alt-screen-header__column {
+  width: 33%;
+}
+
+.alt-screen-header__column:nth-child(2) {
+  display: flex;
+  justify-content: center;
+}
+.alt-screen-header__column:last-child {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}

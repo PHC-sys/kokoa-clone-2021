@@ -8,26 +8,64 @@
     <title>Settings - Kokoa Clone</title>
   </head>
   <body>
-    <div class="status-bar">
-      <div class="status-bar__column">
-        <span>No Service</span>
-        <!-- wifi icon-->
-        <i class="fas fa-wifi"></i>
+    <div class="fixed-top">
+      <div class="status-bar">
+        <div class="status-bar__column">
+          <span>No Service</span>
+          <!-- wifi icon-->
+          <i class="fas fa-wifi"></i>
+        </div>
+        <div class="status-bar__column">
+          <span>18:43</span>
+        </div>
+        <div class="status-bar__column">
+          <span>11%</span>
+          <!-- Battery Icon -->
+          <i class="fas fa-battery-quarter"></i>
+          <!-- Lightning Icon -->
+          <i class="fas fa-bolt"></i>
+        </div>
       </div>
-      <div class="status-bar__column">
-        <span>18:43</span>
-      </div>
-      <div class="status-bar__column">
-        <span>11%</span>
-        <!-- Battery Icon -->
-        <i class="fas fa-battery-quarter"></i>
-        <!-- Lightning Icon -->
-        <i class="fas fa-bolt"></i>
-      </div>
+
+      <header class="alt-screen-header">
+        <div class="alt-screen-header__column">
+          <a href="more.html">
+            <i class="fas fa-chevron-left fa-lg"></i>
+          </a>
+        </div>
+        <div class="alt-screen-header__column">
+          <h1 class="alt-screen-header__title">Settings</h1>
+        </div>
+        <div class="alt-screen-header__column">
+          <span><i class="fas fa-search fa-lg"></i></span>
+        </div>
+      </header>
     </div>
 
     <main class="main-screen main-screen__settings">
-      <span>Hello this is settings page.</span>
+      <ul class="settings-list">
+        <li class="settings__setting">
+          <div class="settings__setting-column">
+            <i class="fas fa-bullhorn"></i>
+            <span>Notices</span>
+          </div>
+          <div class="settings__setting-column"></div>
+        </li>
+        <li class="settings__setting">
+          <div class="settings__setting-column">
+            <i class="fas fa-flask"></i>
+            <span>Kokoa Lab</span>
+          </div>
+          <div class="settings__setting-column"></div>
+        </li>
+        <li class="settings__setting">
+          <div class="settings__setting-column">
+            <i class="fas fa-info-circle"></i>
+            <span>Version</span>
+          </div>
+          <div class="settings__setting-column">Lastest Version</div>
+        </li>
+      </ul>
     </main>
 
     <nav class="nav">

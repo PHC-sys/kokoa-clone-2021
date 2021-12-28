@@ -13,6 +13,7 @@
 @import "components/css/exclamation-mark.css";
 @import "components/css/icon-row.css";
 @import "components/css/alt-screen-header.css";
+@import "components/css/message-row.css";
 
 /*Screens*/
 @import "screens/login.css";
@@ -24,7 +25,7 @@
 
 body {
   font-family: "Open Sans", sans-serif;
-  height: 1000vh;
+  height: 100vh;
   color: #2e373f;
 }
 

@@ -1,3 +1,3 @@
-1. screen-header/status-bar arragnement
+1. screen-header/status-bar arrangement
 a. divide the whole flexbox in 33% -> second: center, last:flex-end
 b. margin-right/left : auto; (first, last)

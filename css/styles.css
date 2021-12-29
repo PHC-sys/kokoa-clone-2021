@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap");
 @import "reset.css";
 @import "variables.css";
+@import "animate.css";
 
 /*Components*/
 @import "components/css/fixed-top.css";
@@ -14,6 +15,7 @@
 @import "components/css/icon-row.css";
 @import "components/css/alt-screen-header.css";
 @import "components/css/message-row.css";
+@import "components/css/no-mobile.css";
 
 /*Screens*/
 @import "screens/login.css";
